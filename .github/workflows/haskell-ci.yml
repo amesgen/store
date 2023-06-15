@@ -17,6 +17,7 @@ on:
   push:
     branches:
       - master
+      - cryptohash-sha1-ci
   pull_request:
     branches:
       - master
